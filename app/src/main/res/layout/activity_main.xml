@@ -19,7 +19,6 @@
         android:text="Welcome to TMBD!"
         android:textColor="@android:color/holo_orange_dark"
         android:textSize="24sp"
-        android:textStyle="bold"
         app:fontFamily="monospace"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"

@@ -2,4 +2,5 @@
     <string name="app_name">TMDB Application</string>
     <string name="button_search">Search for Movies!</string>
     <string name="button_discover">Discover new Movies!</string>
+    <string name="text_search">type here . . .</string>
 </resources>
