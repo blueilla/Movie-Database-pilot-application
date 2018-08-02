@@ -3,4 +3,9 @@
     <string name="button_search">Search for Movies!</string>
     <string name="button_discover">Discover new Movies!</string>
     <string name="text_search">type here . . .</string>
+    <string name="text_discover">type here . . .</string>
+    <string name="radiobutton_1">rating</string>
+    <string name="radiobutton_2">year</string>
+    <string name="radiobutton_3">title</string>
+    <string name="button_letsgo">Let\'s GO!</string>
 </resources>
