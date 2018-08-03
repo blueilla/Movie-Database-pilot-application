@@ -1,9 +1,11 @@
-package com.example.tmdbapplication;
+package com.example.tmdbapplication.activities;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+
+import com.example.tmdbapplication.R;
 
 public class MainActivity extends AppCompatActivity {
 

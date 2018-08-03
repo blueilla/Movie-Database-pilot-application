@@ -1,14 +1,15 @@
-package com.example.tmdbapplication;
+package com.example.tmdbapplication.activities;
 
-import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class SearchByIDActivity extends AppCompatActivity {
+import com.example.tmdbapplication.R;
+
+public class DiscoverActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_search_by_id);
+        setContentView(R.layout.activity_discover);
     }
 }
